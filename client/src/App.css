@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    -webkit-text-size-adjust: 100%; /* For WebKit browsers */
+    text-size-adjust: 100%;       /* Standard property */
+  }
+  
